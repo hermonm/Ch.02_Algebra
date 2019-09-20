@@ -7,7 +7,7 @@ Sign your name:________________
 
 
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
-What are the outputs?
+What are the outputs? If the output is an error record the error and try to determine what the error is!
 
 b/a                 =
 b//a                =
@@ -35,7 +35,7 @@ type(a)       =
 
 
 
-4.) Fix the mistake in the following code.
+4.) What is the mistake in the following code. Fix it!
 x,y = (4,5)
 a = 3(x + y)
 a
@@ -45,7 +45,7 @@ a
 
 
 
-5.) Fix the code so it will calculate the average.
+5.) What is the mistake in the following code so it will calculate the average. Fix it!
 x,y,z =(3,4,5)
 ave = x+y+z/3
 ave
